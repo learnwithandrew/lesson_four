@@ -1,0 +1,22 @@
+{
+  "cars": [
+    {
+      "id": "3",
+      "carName": "Electric car",
+      "carImage": "/assets/images/tesla_prev_ui.png",
+      "carDetails": "This is an electric car."
+    },
+    {
+      "id": "4",
+      "carName": "Minivan car",
+      "carImage": "/assets/images/minivan_prev_ui.png",
+      "carDetails": "This is a minivan car."
+    },
+    {
+      "id": "a5e5",
+      "carName": "Mercedes Benz",
+      "carImage": "https://www.mercedes-benz-kenya.com/media/gamme/modeles/graph/3382-photo-amg-gle-coupe-amg.png",
+      "carDetails": "This is a mercedes benz car."
+    }
+  ]
+}

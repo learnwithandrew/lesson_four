@@ -1,0 +1,13 @@
+Synchronous - following one thread
+Asynchronous Javascript - This refers to the ability of javascript to perform tasks without blocking the main thread of execution.
+Callback
+Promises
+Asyn/Await
+JSON server
+db.json
+API
+GET - display all items on the screen
+POST - create an item.
+PATCH/PUT - update an item.
+DELETE - get rid of an item.
+fetch('api/endpoint)
